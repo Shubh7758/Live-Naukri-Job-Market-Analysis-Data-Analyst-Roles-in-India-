@@ -29,7 +29,7 @@ Top skills ranked by frequency, skill share percentage, average skills required 
 
 | Overview | Location & Salary | Skills |
 |---|---|---|
-| ![Overview](screenshots/overview.png) | ![Location](screenshots/location_salary.png) | ![Skills](screenshots/skills.png) |
+| ![Overview](screenshots/overview_salary.PNG) | ![Location](screenshots/location_salary.PNG) | ![Skills](screenshots/skills.PNG) |
 
 ---
 
